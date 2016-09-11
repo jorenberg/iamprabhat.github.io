@@ -7,3 +7,5 @@ date: 2016-09-04
 h2. About — Prabhat Kumar
 
 Prabhat Kumar is the author of this blog as well as CEO, Founder, Data Scientist and Open Source Advocate. He is currently the CEO and Founder at "Sequømics":http://sequomics.com/, a India based Data Science Company.
+
+Prabhat - has contributed a number of open-source projects to the scientific community including the "AFPDB":https://github.com/AFPDB and "ITDB":https://github.com/ITDB.
