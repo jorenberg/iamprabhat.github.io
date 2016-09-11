@@ -9,3 +9,11 @@ h2. About — Prabhat Kumar
 Prabhat Kumar is the author of this blog as well as CEO, Founder, Data Scientist and Open Source Advocate. He is currently the CEO and Founder at "Sequømics":http://sequomics.com/, a India based Data Science Company.
 
 Prabhat - has contributed a number of open-source projects to the scientific community including the "AFPDB":https://github.com/AFPDB and "ITDB":https://github.com/ITDB.
+
+h2. About — This Site
+
+This site is built using the "Grunt":http://gruntjs.com/ library and hosted on "GitHub":http://github.com/. The source code used to create this repository is "publicly available on GitHub":https://github.com/iamprabhat/iamprabhat.github.io as well.
+
+License: "Apache 2.0":https://github.com/iamprabhat/iamprabhat.github.io/blob/master/LICENSE.
+
+Thanks.
