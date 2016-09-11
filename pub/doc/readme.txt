@@ -21,3 +21,18 @@
 // C. Management — University of London, England.
 // C1: — Brand Management: Aligning Business, Brand and Behaviour
 //       https://www.coursera.org/account/accomplishments/verify/8JKZL4ZUKR
+//
+// D. Data Science Specialization — The Johns Hopkins University, USA.
+// D01: — The Data Scientist’s Toolbox
+// D02: — R Programming
+// D03: — Getting and Cleaning Data
+// D04: — Exploratory Data Analysis
+// D05: — Reproducible Research
+// D06: — Statistical Inference
+// D07: — Regression Models
+// D08: — Practical Machine Learning
+// D09: — Developing Data Products
+// D10: — Data Science Capstone:
+//        https://www.coursera.org/account/accomplishments/verify/4JCD5D82HNFM
+//        https://www.coursera.org/account/accomplishments/specialization/92ECCG6HDZGH
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~
