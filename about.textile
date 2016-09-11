@@ -3,3 +3,7 @@ title: About — Prabhat Kumar
 layout: master
 date: 2016-09-04
 ---
+
+h2. About — Prabhat Kumar
+
+Prabhat Kumar is the author of this blog as well as CEO, Founder, Data Scientist and Open Source Advocate. He is currently the CEO and Founder at "Sequømics":http://sequomics.com/, a India based Data Science Company.
