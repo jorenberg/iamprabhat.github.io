@@ -20,3 +20,7 @@ All the sources can be found in the "[root](https://github.com/iamprabhat/iampra
 It runs on all modern browsers that support [HTML5](https://html.spec.whatwg.org/multipage/) and [ECMAScript 5](http://www.ecma-international.org/ecma-262/5.1/).
 
 This includes Chrome, Firefox, Safari, Opera and Edge. For older browsers and platforms like Internet Explorer (down to version 9) and Android 4.x, [polyfills](http://polyfill.io) for ```requestAnimationFrame``` and ```Element.prototype.classList``` are required.
+
+## License?
+
+The ```codebase``` is licensed under the terms of the [Apache 2.0](https://github.com/iamprabhat/iamprabhat.github.io/blob/master/LICENSE). Contributors must accept our [contribution terms](https://github.com/iamprabhat/iamprabhat.github.io/blob/master/CONTRIBUTING.md).
