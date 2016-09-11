@@ -4,3 +4,5 @@ From the desk of [Prabhat Kumar](http://prabhatkumar.org/) — CEO, Founder & Da
 ## What is it?
 
 Source files for the <b>"iamprabhat®"</b> web — https://iamprabhat.github.io/ & http://prabhatkumar.org/. Features includes filtering, ordering, instant search, URL access/update, file size optimization and GitHub API usage for listed — projects.
+
+<b>Note:</b> Project data stored in JSON for easy modifications.
