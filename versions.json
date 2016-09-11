@@ -1,0 +1,162 @@
+[
+  {
+    "name": "iamprabhat.github.io",
+    "version": "v0.0.1",
+    "date": "2014-09-04",
+    "files": [
+      "index.html",
+      "404.html",
+      "500.html",
+      "main.css",
+      "common.css"
+    ],
+    "npm": "2.0.0",
+    "v8": "3.26.33.0",
+    "modules": "5",
+    "with-grunt": false,
+    "build-tool": [
+      "ruby",
+      "Node.js"
+    ],
+    "url": "https://iamprabhat.github.io/",
+    "private": true,
+    "authors": [
+      "Prabhat Kumar <prabhat.genome@gmail.com>"
+    ],
+    "description": "I am Prabhat Kumar — CEO, Founder and Data Scientist.",
+    "main": "index.html",
+    "moduleType": [
+      "global"
+    ],
+    "keywords": [
+      "Prabhat",
+      "Kumar",
+      "CEO",
+      "Founder",
+      "Data Scientist",
+      "Sequomics Corporation"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "http://prabhatkumar.org/"
+  },
+  {
+    "name": "iamprabhat.github.io",
+    "version": "v0.1.1",
+    "date": "2015-01-04",
+    "files": [
+      "index.html",
+      "404.html",
+      "500.html",
+      "main.css",
+      "common.css"
+    ],
+    "npm": "3.3.12",
+    "v8": "4.6.85.31",
+    "modules": "5",
+    "with-grunt": false,
+    "build-tool": [
+      "ruby",
+      "Node.js"
+    ],
+    "url": "https://iamprabhat.github.io/",
+    "private": true,
+    "authors": [
+      "Prabhat Kumar <prabhat.genome@gmail.com>"
+    ],
+    "description": "I am Prabhat Kumar — CEO, Founder and Data Scientist.",
+    "main": "index.html",
+    "moduleType": [
+      "amd"
+    ],
+    "keywords": [
+      "Prabhat",
+      "Kumar",
+      "CEO",
+      "Founder",
+      "Data Scientist",
+      "Sequomics Corporation"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "http://prabhatkumar.org/"
+  },
+  {
+    "name": "iamprabhat.github.io",
+    "version": "v1.0.0",
+    "date": "2015-09-04",
+    "files": [
+      "index.html",
+      "404.html",
+      "500.html",
+      "main.css",
+      "common.css"
+    ],
+    "npm": "3.3.12",
+    "v8": "4.6.85.31",
+    "modules": "5",
+    "with-grunt": false,
+    "build-tool": [
+      "ruby",
+      "Node.js"
+    ],
+    "url": "https://iamprabhat.github.io/",
+    "private": true,
+    "authors": [
+      "Prabhat Kumar <prabhat.genome@gmail.com>"
+    ],
+    "description": "I am Prabhat Kumar — CEO, Founder and Data Scientist.",
+    "main": "index.html",
+    "moduleType": [
+      "amd"
+    ],
+    "keywords": [
+      "Prabhat",
+      "Kumar",
+      "CEO",
+      "Founder",
+      "Data Scientist",
+      "Sequomics Corporation"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "http://prabhatkumar.org/"
+  },
+  {
+    "name": "iamprabhat.github.io",
+    "version": "v1.0.1",
+    "date": "2016-09-04",
+    "files": [
+      "index.html",
+      "404.html",
+      "500.html",
+      "main.css",
+      "common.css"
+    ],
+    "npm": "3.6.0",
+    "v8": "4.6.85.31",
+    "modules": "20",
+    "with-grunt": false,
+    "build-tool": [
+      "ruby",
+      "Node.js"
+    ],
+    "url": "https://iamprabhat.github.io/",
+    "private": true,
+    "authors": [
+      "Prabhat Kumar <prabhat.genome@gmail.com>"
+    ],
+    "description": "I am Prabhat Kumar — CEO, Founder and Data Scientist.",
+    "main": "index.html",
+    "moduleType": [
+      "amd"
+    ],
+    "keywords": [
+      "Prabhat",
+      "Kumar",
+      "CEO",
+      "Founder",
+      "Data Scientist",
+      "Sequomics Corporation"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "http://prabhatkumar.org/"
+  }
+]
