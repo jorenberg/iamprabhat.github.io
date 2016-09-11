@@ -17,3 +17,7 @@
 // B. Management — University of Geneva, Switzerland.
 // B1: — International Organizations Management
 //       https://www.coursera.org/account/accomplishments/verify/54KM3WKDU4
+//
+// C. Management — University of London, England.
+// C1: — Brand Management: Aligning Business, Brand and Behaviour
+//       https://www.coursera.org/account/accomplishments/verify/8JKZL4ZUKR
