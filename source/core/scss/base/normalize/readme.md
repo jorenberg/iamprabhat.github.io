@@ -10,3 +10,10 @@ Normalize.scss makes browsers render all elements more consistently and in line 
 - Corrects bugs and common browser inconsistencies.
 - Improves usability with subtle modifications.
 - Explains what code does using detailed comments.
+
+## How to use it?
+Normalize.scss is a Sass Partial — A partial is a file that contains some of the Sass Code, that is used to organize our code. You have to just import through `@import` — directive.<br/>
+```{css}
+@import 'normalize';
+```
+<b>Note:</b> It's designed and coded by the help of many useful - `@function` & `@mixin` — directive.
