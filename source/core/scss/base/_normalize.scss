@@ -3,3 +3,14 @@
 //  A collection of HTML element and attribute style-normalizations.
 //  https://github.com/necolas/normalize.css
 //  ==========================================================================
+//  Path: ./normalize/
+
+//  Sass Partial — A partial is a file that contains some of the Sass Code,
+//  that is used to organize our code.
+//  @import — directive.
+//  --------------------------------
+@import 'normalize/variables';
+@import 'normalize/support';
+@import 'normalize/vertical-rhythm';
+@import 'normalize/mixin';
+//  --------------------------------
