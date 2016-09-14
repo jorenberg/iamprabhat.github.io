@@ -17,3 +17,6 @@ Normalize.scss is a Sass Partial — A partial is a file that contains some of t
 @import 'normalize';
 ```
 <b>Note:</b> It's designed and coded by the help of many useful - `@function` & `@mixin` — directive.
+
+## Acknowledgements
+[Normalize.css](https://github.com/necolas/normalize.css) is a project by [Nicolas Gallagher](https://github.com/necolas), co-created with [Jonathan Neal](https://github.com/jonathantneal).
