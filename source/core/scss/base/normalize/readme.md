@@ -20,3 +20,5 @@ Normalize.scss is a Sass Partial — A partial is a file that contains some of t
 
 ## Acknowledgements
 [Normalize.css](https://github.com/necolas/normalize.css) is a project by [Nicolas Gallagher](https://github.com/necolas), co-created with [Jonathan Neal](https://github.com/jonathantneal).
+
+<b>Author:</b> [Prabhat Kumar](http://prabhatkumar.org/) — CEO, Founder & Data Scientist @ [Sequømics Corporation](http://sequomics.com/).<br/><br/><b>Many Thanks.</b>
